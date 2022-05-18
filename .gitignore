@@ -3,6 +3,8 @@ node_modules
 /build
 /.svelte-kit
 /package
+.pnp.*
+.yarn/
 .env
 .env.*
 !.env.example
